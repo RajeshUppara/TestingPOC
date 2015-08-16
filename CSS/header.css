@@ -1,0 +1,8 @@
+.lineshape {
+   background-image: url("/Images/Untitled-2.png");
+}
+
+.nav-ul li {
+  float: left;
+  line-height: 30px;
+}
